@@ -1819,7 +1819,7 @@
 					"$(SRCROOT)/../../../../extensions",
 				);
 				INFOPLIST_FILE = Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/../../../..//cocos2dx/platform/third_party/ios/libraries\"",
@@ -1864,7 +1864,7 @@
 					"$(SRCROOT)/../../../../extensions",
 				);
 				INFOPLIST_FILE = Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/../../../..//cocos2dx/platform/third_party/ios/libraries\"",
